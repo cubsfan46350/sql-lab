@@ -30,7 +30,7 @@ Visit [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/tryit.asp?
 
 **Clicking the `Restore Database` button in the page will repopulate the database with the original data and discard all changes you have made**.
 
-### Create Database and Table
+### Create Database and Table - Completed
 
 - use [`DB Browser for SQLite`](https://sqlitebrowser.org/) to create a database, name it `budget.sqlite3`.
 - add an `accounts` table with the following _schema_:
